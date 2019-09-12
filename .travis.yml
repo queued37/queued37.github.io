@@ -12,3 +12,7 @@ deploy:
   target_branch: master
   keep_history: true
   local_dir: _site
+
+branches:
+  except:
+  - master
