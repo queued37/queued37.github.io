@@ -5,12 +5,14 @@ fields:
 - type: text
   name: layout
   label: layout
+  default: page
 - type: text
   name: title
   label: title
 - type: datetime
   name: date
   label: date
+  default: now
 - type: text
   name: categories
   label: categories
