@@ -16,3 +16,5 @@ fields:
 - type: text
   name: categories
   label: categories
+pages:
+- _posts/queuedlab-블로그-개설.md
