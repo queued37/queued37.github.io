@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Mathjax Test"
-date:   2019-09-12 00:46:15 +0900
+title: Mathjax Test
+date: 2019-09-11T15:46:15.000+00:00
 categories: math
+
 ---
 <div style="display: none">
 <script type="math/tex; mode=display">
