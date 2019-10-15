@@ -1,8 +1,16 @@
 ---
 layout: page
 date: 2019-10-15 10:43:34 +0000
-title: HITCON CTF 2019 예선
-categories: hacking, crypto
+title: HITCON CTF 2019 예선 후기
+categories: hacking, ctf
 
 ---
-지난 10월 12-14일 CodeRed+GYG 팀으로 HITCON CTF 2019 예선에 참가했습니다.
+지난 10월 12-14일 HITCON CTF 2019 예선에 CodeRed+GYG 팀으로 참가했습니다! 결과는 전체 16등, 한국 팀 중에서 2등입니다. 아쉽게도 한국 팀 모두 한두 문제 차이로 본선에 진출하지는 못했습니다.
+
+![](/uploads/스크린샷 2019-10-14 16.30.34.png)
+
+소속이 생긴 이후 처음으로 참가하는 메이저 대회라서 의미 있는 경험이었습니다. CTF 경험이 많지 않음에도 CodeRed에 들어가게 된 이야기를 하려면 먼저 올해 DEF CON CTF 이야기를 해야 하는데, 나중에 DEF CON CTF 후기와 함께 설명하려고 합니다. 아무튼 여차저차해서 CodeRed에서 크립토 문제를 전담하는 역할이 되었습니다.
+
+팀에 크립토 하는 사람이 저밖에 없기도 하고, 타 분야는 이제 막 기초를 다지는 중이라서 자연스럽게 크립토 문제에만 집중했습니다. 크립토는 총 다섯 문제가 나왔고, 그 중 Lost Modulus Again과 Very Simple Haskell 두 문제를 풀었습니다. 나머지 세 문제는 대회가 끝난 뒤 트위터 등지에서 검색해 보니 다들 어려웠다고 이야기하는 것 같았습니다.
+
+## Lost Modulus Again (200pts, 64 solves)
