@@ -1,4 +1,5 @@
 [lang^="en"]      { line-height: 1.6; @include font-serif; }
+[lang^="ko"]      { line-height: 1.6; @include font-serif-ko; }
 [lang^="zh-Hans"] { line-height: 1.8; @include font-serif-zh-Hans; }
 [lang^="zh-Hant"] { line-height: 1.8; @include font-serif-zh-Hant; }
 [lang^="ja"]      { line-height: 1.8; @include font-serif-ja; }

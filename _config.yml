@@ -29,6 +29,7 @@ plugins:
 permalink: /posts/:year-:month-:day-:title
 
 # Theme settings
+lang: ko
 mathjax: true
 
 twitter_username: queued_q
